@@ -1,0 +1,12 @@
+check_disk_space
+check_dir_space_usage
+check_running_db_instances
+check_listener_status
+check_running_OEM_agents
+less_alert_log
+view_alert_log
+check_db_physical_space
+check_db_used_space
+check_tablespace_space
+check_log_seq
+quit
